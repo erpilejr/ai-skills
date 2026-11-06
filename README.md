@@ -1,0 +1,22 @@
+# ai-skills
+
+My personal library of AI agent skills. Each one is a folder under `skills/` with a `SKILL.md`, in the
+[Agent Skills](https://agentskills.io/specification) format that Claude Code and other agents read.
+
+## Use it
+
+```bash
+git clone git@github.com:erpilejr/ai-skills.git ~/projects/ai-skills
+ln -s ~/projects/ai-skills/skills ~/.claude/skills
+```
+
+## Add a skill
+
+In any Claude session, say **"add the pattern to our skill set"**. The `adding-to-skill-set` skill writes
+the new skill, updates the index below, commits, and pushes.
+
+## Index
+
+| Skill | Use when | Origin |
+|-------|----------|--------|
+| [adding-to-skill-set](skills/adding-to-skill-set/SKILL.md) | You ask to capture a pattern from the conversation as a skill | Repo bootstrap |
