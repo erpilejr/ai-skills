@@ -17,7 +17,7 @@ When they ask you to add a pattern, turn it into a skill, commit it, and push it
 2. **Check for overlap.** `ls ~/projects/ai-skills/skills` and grep the descriptions. If a skill already
    covers it, update that skill instead of adding a near-duplicate.
 3. **Write `skills/<name>/SKILL.md`:**
-   - `name`: verb-first and hyphenated (`interviewing-for-specs`, not `spec-interview`)
+   - `name`: short and hyphenated, 1–3 words naming the thing (`council-review`, `spec-interview`)
    - `description`: third person, starts with "Use when…", gives only the triggers and symptoms, never the
      steps. Keep it under 500 characters.
    - Body: Overview (1–2 sentences), When to use / when not to, the steps or rules, Common mistakes.
