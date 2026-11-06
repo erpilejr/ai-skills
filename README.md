@@ -20,3 +20,4 @@ the new skill, updates the index below, commits, and pushes.
 | Skill | Use when | Origin |
 |-------|----------|--------|
 | [adding-to-skill-set](skills/adding-to-skill-set/SKILL.md) | You ask to capture a pattern from the conversation as a skill | Repo bootstrap |
+| [convening-a-council-review](skills/convening-a-council-review/SKILL.md) | You want 5 independent adviser takes, anonymous peer review and a Chairman verdict on a design or plan | Mobile App Factory design council (2026-11-06) |
