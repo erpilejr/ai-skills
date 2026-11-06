@@ -1,5 +1,5 @@
 ---
-name: convening-a-council-review
+name: council-review
 description: Use when the user asks for a "council", a panel of advisers, or several independent sub-agent opinions on a design, spec, plan, or business idea, especially before committing to build, when a document feels too big, or when the author may be too close to their own work to see its gaps.
 ---
 
