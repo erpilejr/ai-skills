@@ -1,0 +1,3 @@
+# Claude app sync cache of built-in skills (lands here via the ~/.claude/skills symlink); not part of this repo
+skills/synced/
+.DS_Store
