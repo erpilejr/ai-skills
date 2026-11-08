@@ -10,6 +10,11 @@ git clone git@github.com:erpilejr/ai-skills.git ~/projects/ai-skills
 ln -s ~/projects/ai-skills/skills ~/.claude/skills
 ```
 
+## Agent instructions
+
+[AGENTS.md](AGENTS.md) holds my standing instructions for any agent (for example: always give the direct URL or
+absolute file path when telling me to do something). [CLAUDE.md](CLAUDE.md) imports it so Claude Code reads it too.
+
 ## Add a skill
 
 In any Claude session, say **"add the pattern to our skill set"**. The `adding-to-skill-set` skill writes
